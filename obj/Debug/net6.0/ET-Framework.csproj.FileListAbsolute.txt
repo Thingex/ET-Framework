@@ -1,0 +1,12 @@
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/bin/Debug/net6.0/ET-Framework.deps.json
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/bin/Debug/net6.0/ET-Framework.dll
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/bin/Debug/net6.0/ET-Framework.pdb
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ET-Framework.csproj.AssemblyReference.cache
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ET-Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ET-Framework.AssemblyInfoInputs.cache
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ET-Framework.AssemblyInfo.cs
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ET-Framework.csproj.CoreCompileInputs.cache
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ET-Framework.dll
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/refint/ET-Framework.dll
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ET-Framework.pdb
+/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/obj/Debug/net6.0/ref/ET-Framework.dll

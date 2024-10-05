@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "f4A+LKotMIAc34+Vpi8brSvGxgzhlpWmmDK18XEDMlnFhhfcTNskHSYaxKsshA9c570uq1Pf2uHgsIpPU1bKEw==",
+  "success": true,
+  "projectFilePath": "/Users/thingex/Development/StandardProjects/VisualStudio/ET-Framework/ET-Framework/ET-Framework.csproj",
+  "expectedPackageFiles": [
+    "/Users/thingex/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/thingex/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
